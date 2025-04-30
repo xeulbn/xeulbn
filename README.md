@@ -18,7 +18,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Java-->
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
