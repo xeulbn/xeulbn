@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Try%20to%20better%20than%20me%20in%20yesterday%20%F0%9F%A4%97)
   
 </div>
 
@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a BackEnd Engineer from South Korea.<br/>
-  #### :fire: I aim to become a BackEnd Engineer.<br/>
+  #### :fire: Enjoys learning and applying new technologies, and pursues continuous growth.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sejong University(SJU)
   <br/>
   <br/>
