@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=jmeter&logoColor=white"/>
+
 
    ### Cloud
   <!--Docker-->
