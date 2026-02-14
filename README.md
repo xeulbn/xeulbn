@@ -1,7 +1,10 @@
 <div>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni)
-  
+| Algorithm | GitHub |
+|----------|--------|
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xeulbn&show_icons=true&theme=dark) |
+
+
 </div>
 
 <div>
@@ -10,7 +13,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a BackEnd Engineer from South Korea.<br/>
   #### :fire: Enjoys learning and applying new technologies, and pursues continuous growth.<br/>
-  #### : 🔍 Enjoys debugging and testing, and is passionate about performance optimization
+  ####  🔍 Enjoys debugging and testing, and is passionate about performance optimization
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sejong University(SJU)
   <br/>
   <br/>
