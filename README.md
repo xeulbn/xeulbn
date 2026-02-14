@@ -4,12 +4,11 @@
 |----------|--------|
 | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xeulbn&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" /> |
 
-
-
 </div>
 
 <div>
   <!--Body-->
+
   
   ## 👀 About Me
   #### :raising_hand: I am a BackEnd Engineer from South Korea.<br/>
