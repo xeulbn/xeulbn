@@ -1,8 +1,8 @@
 <div>
   
 | Algorithm | GitHub |
-|----------|--------|
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xeulbn&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" /> |
+|---|---|
+| [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | <img src="https://github-readme-stats.vercel.app/api?username=xeulbn&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" /> |
 
 </div>
 
