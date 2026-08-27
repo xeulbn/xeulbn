@@ -2,7 +2,7 @@
   
 | Algorithm | GitHub |
 |---|---|
-| [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | <img src="https://github-readme-stats.vercel.app/api?username=xeulbn&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" /> |
+| [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bbinni)](https://solved.ac/profile/bbinni) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xeulbn&theme=tokyonight&v=1" height="165" /> |
 
 </div>
 
