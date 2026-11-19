@@ -40,6 +40,10 @@
 
 알림 도메인을 맡아 개발하였으며, 사용자의 피드백을 기반으로 디벨롭과 피벗을 반복해나가고 있습니다.
 
+### 티켓판매 사이트 · [TicketSellingApplication](https://github.com/xeulbn/TicketSellingApplication.git)
+
+오브젝트 책을 읽으며 객체 지향 원칙에 대해 학습을 위한 프로젝트입니다.
+
 <br>
 
 ## Stack
