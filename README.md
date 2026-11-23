@@ -44,7 +44,7 @@
 
 오브젝트 책을 읽으며 객체 지향 원칙에 대해 학습을 위한 프로젝트입니다.
 
-### 코드 어시스턴트 · [Code Assistance]()
+### 코드 어시스턴트 · [Code Assistance](https://github.com/xeulbn/code-assistant.git)
 [월 1,000달러 지출하며 알아온 Claude Code 길들여 혼자 만드는 AI 개발팀](https://www.inflearn.com/course/the-ai-development-t?cid=344712) 강의를 통해 학습하며 직접 코드 어시스턴트를 만들어보고 있습니다.
 
 <br>
