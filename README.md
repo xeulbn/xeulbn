@@ -29,7 +29,7 @@
 ## 요즘 학습하는 것
 - **오브젝트** — 객체 지향 설계
 - **Spring의 동작 원리** — 빈 생명주기, 프록시와 AOP, 트랜잭션 경계
-- **AI의 활용** — 개발을 하며 Loop Engineering을 실험하고 테스트를 실행해 결과를 AI에 전달하는 Harness를 만들고 있습니다.
+- **AI의 활용** — 개발을 하며 Loop Engineering을 실험하고 테스트를 실행해 결과를 AI에 전달하는 Harness를 만들고 있습니다. [AI 학습 강의](https://www.inflearn.com/course/the-ai-development-t?cid=344712)
 
 
 <br>
@@ -43,6 +43,9 @@
 ### 티켓판매 사이트 · [TicketSellingApplication](https://github.com/xeulbn/TicketSellingApplication.git)
 
 오브젝트 책을 읽으며 객체 지향 원칙에 대해 학습을 위한 프로젝트입니다.
+
+### 코드 어시스턴트 · [Code Assistance]()
+[월 1,000달러 지출하며 알아온 Claude Code 길들여 혼자 만드는 AI 개발팀](https://www.inflearn.com/course/the-ai-development-t?cid=344712) 강의를 통해 학습하며 직접 코드 어시스턴트를 만들어보고 있습니다.
 
 <br>
 
